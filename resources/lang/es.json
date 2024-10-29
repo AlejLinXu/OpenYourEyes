@@ -1,0 +1,73 @@
+{
+"Home_nav":"Inicio",
+"About_nav":"Acerca de",
+"Database_nav":"Base de datos",
+"Resources_nav":"Recursos",
+"Partners_nav":"Socios",
+"News_nav":"Noticias",
+"Contact_nav":"Contacta",
+"Survey_nav":"Encuesta",
+
+"header_fake_news":"Fake news for dummies",
+
+"t_about_project":"Sobre el proyecto",
+"t_about_project_p1":"En la Nueva Era de los Medios, estamos <b>constantemente rodeados de todo tipo de información</b>, desde cuestiones políticas hasta anuncios y marketing, que nos llega sin otro filtro que, nuestra propia capacidad para <b>evaluar críticamente su validez</b>. La información sesgada parece ser particularmente difícil de decodificar para los grupos demográficos menos alfabetizados en medios de comunicación; si bien las tasas de alfabetización digital han demostrado no tener en cuenta la edad o el nivel educativo, el proyecto Open Your Eyes se dirige, específicamente, a <b>estudiantes adultos y educadores</b> y busca <b>mejorar sus habilidades digitales</b> al proporcionarles herramientas para identificar noticias falsas y luchar contra la propagación de la desinformación online.",                       
+"t_about_project_p2":"El proyecto Open Your Eyes tiene como objetivo ofrecer dos resultados principales:",
+"t_about_project_p3":"Base de datos “Check IT Out”</b>: después de una exhaustiva investigación comparativa, los socios recopilarán una colección de buenas prácticas e iniciativas que permitirán a los usuarios desarrollar un <b>enfoque crítico respecto al consumo de noticias</b> y, con suerte, fomentar su sentido crítico respecto a este tema. La investigación se llevará a cabo en una selección de países europeos interesados en fenómenos como el separatismo y la creciente desinformación, particularmente en la época de las elecciones nacionales y europeas, y permitirá a los futuros usuarios <b>diseñar estrategias individuales</b> para enfrentar la desinformación en función de lo que funcionó mejor en otros países.",
+"t_about_project_p4":"Laboratorios “Check IT Out”</b>:   impartidos por educadores de adultos especialmente capacitados y basados en la base de datos desarrollada previamente, los laboratorios se dirigen a grupos de <b>estudiantes adultos</b> en los países socios, con el objetivo de desarrollar sus habilidades críticas y digitales, introduciendo el concepto de noticias falsas y, en última instancia, concienciando sobre el tema dentro de su red.",                                                  
+"t_about_project_p5":"Proyecto [ 2018-1-BG01-KA204-047871 ]",
+
+
+"t_database":"Noticias falsas: por qué preferimos llamarlo \"desinformación\"",
+"t_database_p1":"A pesar de que el término \"noticias falsas\" es ampliamente utilizado, el término se considera cada vez más <b>inadecuado</b>: es demasiado confuso e impreciso, sin mencionar que tiene una carga política, y que abarca un rango demasiado amplio de fenómenos (como la creación, sátira y parodia de noticias, manipulación, publicidad y propaganda; Tandoc et al, 2017).",                   
+"t_database_p2":"De acuerdo con la posición de la Comisión Europea y del Consejo de Europa, adoptamos el marco teórico del trastorno de la información, que define tres tipos de información falsa y / o dañina:",                    
+"t_database_p3":"<b>Información errónea</b>: información falsa que se comparte involuntariamente, sin querer causar daño.",
+"t_database_p4":"<b>Desinformación</b>: con la intención de causar daño, al compartir deliberadamente información falsa.",
+"t_database_p5": "<b>Información malintencionada</b>: información u opinión compartida para causar daño, por ejemplo, discurso de odio, acoso.",                                        
+"t_database_p6": "Nuestros esfuerzos se centrarán en contrarrestar la <b>desinformación</b>, la peligrosa superposición de información falsa y dañina.",
+"t_database_list":"Check It Out",
+"t_database_list_p1":"La base de datos \"Check It Out\" es una colección de herramientas e iniciativas útiles para aprender sobre la desinformación online: qué es, cómo se propaga y cómo contrarrestarla.",
+"t_database_list_p2":"¡Utiliza los siguientes filtros para ordenar las iniciativas por país, tipo, público objetivo y plataformas a las que se dirige!",
+"t_database_list_p3":"La base de datos \"Check It Out\" se actualiza regularmente: ¿conoce alguna iniciativa que encajaría bien aquí? Cuéntanoslo todo aquí!",
+
+
+"t_res_handbook":"MANUAL PARA EDUCADORES DE ADULTOS Y OTROS RECURSOS",
+"t_res_handbook_p1":"¡Mantente atento a los materiales educativos, herramientas y recursos para educadores de adultos interesados en el tema de la desinformación!",
+
+
+"t_news_evnts":"NOTICIAS Y EVENTOS",
+"t_news_evnts_p1":"Sigue las noticias y eventos de toda Europa para estar informado sobre las últimas noticias sobre cómo abordar la desinformación y la enseñanza de la alfabetización en medios digitales. Mantente al día.",
+
+"t_contact":"Contacta",
+"t_contact_p1":"Información de contacto",
+"t_contact_p2":"Nombre completo",
+"t_contact_p3":"E-mail",
+"t_contact_p4":"Organización",
+"t_contact_p5":"Mensaje",
+"t_contact_p6":"Enviar",
+
+
+"t_survey":"El proyecto Open Your Eyes está recopilando las mejores prácticas, herramientas y recursos sobre alfabetización digital y mediática en Fake News en Europa. Esta encuesta está diseñada para ayudar a la comunidad a enumerar sus recursos y compartirlos en un sitio web común.",                    
+"t_survey_p1":"Al completar este formulario, ayudas a crear un centro de recursos único sobre este tema crucial.",
+"t_survey_p2":"La información que proporciones respondiendo a este cuestionario será utilizada únicamente por el consorcio del proyecto financiado por Erasmus + \"Open Your Eyes: fake news for dummies\".",                    
+"t_survey_p3":"La información que proporciones no se utilizará de ninguna otra manera sin tu consentimiento explícito.",
+
+                    
+
+"t_disclaimer":"El apoyo de la Comisión Europea para la elaboración de esta publicación no implica la aceptación de sus contenidos, que es responsabilidad exclusiva de los autores. Por tanto, la Comisión no es responsable del uso que pueda hacerse de la información aquí difundida.",
+
+
+"r_handbook":"MANUAL",
+"r_module":"MODULO ",
+"r_get_ready":"Prepárate",
+"r_check_out":"Ponlo a prueba",
+"r_verify":"Verifícalo",
+"r_dys":"Hazlo tú mismo",
+"r_sources":"Fuentes",
+"r_freading":"Lecturas adicionales",
+"r_case_study":"Caso Práctico: Suavelos, una red supremacista blanca",
+"r_m1_title":"El concepto común de la alfabetización mediática en el contexto de la UE",
+"r_m2_title":"Conceptualizando la desinformación",
+"r_m3_title":"Cómo abordar la desinformación: herramientas y metodología"                                                
+
+}

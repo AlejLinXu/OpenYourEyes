@@ -1,0 +1,73 @@
+{
+"Home_nav":"Home",
+"About_nav":"About",
+"Database_nav":"Database",
+"Resources_nav":"Resources",
+"Partners_nav":"Partners",
+"News_nav":"News",
+"Contact_nav":"Contact",
+"Survey_nav":"Survey",
+
+"header_fake_news":"Fake news for dummies",
+
+"t_about_project":"About project",
+"t_about_project_p1": "In the New Media Age we are <b>constantly surrounded by all kinds of information</b>, from political issues to advertisements and marketing, which gets to us with no filter other than our own capacity to <b>critically assess its validity</b>. Biased information appears to be particularly difficult to decode for the less media-literate demographics; while the rates of digital literacy have proved to disregard age or educational level, the Open Your Eyes project targets specifically <b>adult learners and educators</b> and seeks to <b>improve their digital skills</b> by providing them with tools to identify fake news and fight the spread of disinformation online.",                       
+"t_about_project_p2":"The Open Your Eyes project intends to deliver two main results:",
+"t_about_project_p3":"“Check IT Out” Database</b>: after thorough comparative research, the partners will compile a collection of best practices and initiatives that will enables users to develop a critical <b>approach to news consumption</b> and hopefully trigger their critical sense towards this issue. Research will be conducted in a selection of European countries interested by phenomena such as separatism and rising disinformation, particularly around the time of national and European elections, and will allow future users to <b>design individual strategies</b> to confront disinformation based on what worked best in other countries.",
+"t_about_project_p4":"“Check IT Out” Labs:</b> held by especially-trained adult educators and based on the previously developed database, the Labs target groups of <b>adult learners</b> in partner countries with the objective of developing their critical and digital skills, bringing them closer to the concept of fake news and ultimately spreading awareness about the topic within their network.",                                                  
+"t_about_project_p5":"Project [ 2018-1-BG01-KA204-047871 ]",
+
+
+"t_database":"“Fake news”: why we prefer calling it “disinformation”",
+"t_database_p1":"Despite being widely used, the term “fake news” is increasingly considered <b>inadequate</b>: it’s too nebulous and imprecise – not to mention politically charged – and it encompasses a much too wide range of phenomena (such as news satire, news parody, fabrication, manipulation, advertising and propaganda; Tandoc et al, 2017).",                   
+"t_database_p2":"In line with the position of the European Commission and of the Council of Europe, we adopt the <b>information disorder</b> theoretical framework, which defines three types of false and/or harmful information:",                    
+"t_database_p3":"<b>Mis-information</b>: false information that is shared inadvertently, without meaning to cause harm.",
+"t_database_p4":"<b>Dis-information</b>: intending to cause harm, by deliberately sharing false information.",
+"t_database_p5": "<b>Mal-information</b>: genuine information or opinion shared to cause harm, e.g. hate speech, harassment.",                                        
+"t_database_p6": "Our efforts will focus on countering <b>dis-information</b>, the dangerous overlap of false and harmful information.",
+"t_database_list":"Check It Out",
+"t_database_list_p1":"The “Check It Out” database is a collection of <b>useful tools and initiatives</b> to learn about <b>online disinformation</b>: what it is, how it spreads and how to counter it.",
+"t_database_list_p2":"Use the filters below to sort out the initiatives by country, type, target audience and platforms addressed!",
+"t_database_list_p3":" <b>The “Check It Out” database is regularly updated</b>: do you know of any initiative that would fit nicely in here? <a href=\" /survey\">Tell us all about it here!</a>",
+
+
+"t_res_handbook":"HANDBOOK FOR ADULT EDUCATORS",
+"t_res_handbook_p1":"Stay tuned for educational materials, tools and resources for adult educators interested in disinformation! ",
+
+
+"t_news_evnts":"NEWS AND EVENTS",
+"t_news_evnts_p1":"Follow News and Events from across Europe to be informed about latest news on tackling disinformation and teaching digital media literacy. Keep up to date.",
+
+"t_contact":"Contact",
+"t_contact_p1":"Contact information",
+"t_contact_p2":"Full name",
+"t_contact_p3":"Email",
+"t_contact_p4":"Organisation",
+"t_contact_p5":"Message",
+"t_contact_p6":"Send",
+
+
+"t_survey":"The Open Your Eyes project is collecting best practices, toolkits and resources around digital and media literacy on Fake News in Europe. This survey is designed to help the community to list their resources and share them on a common website.",                    
+"t_survey_p1":"By filling this form, you help to create a unique resource center on this very crucial issue.",
+"t_survey_p2":"The information you provide by responding to this questionnaire will be used by the consortium of the Erasmus + funded project \"Open your eyes: fake news for dummies\" only.",                    
+"t_survey_p3":"The information you provide will not be used in any other way without your explicit consent.",
+
+                    
+
+"t_disclaimer":"The European Commission support for the production of this publication does not constitute an endorsement of the contents which reflects the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein .",                                                  
+
+"r_handbook":"HANDBOOK",
+"r_module":"MODULE ",
+"r_get_ready":"GET READY",
+"r_check_out":"CHECK IT OUT",
+"r_verify":"VERIFY",
+"r_dys":"DO IT YOURSELF",
+"r_sources":"SOURCES",
+"r_freading":"FURTHER READING",
+"r_case_study":"Case study: suavelos, a white supremacist network",
+"r_m1_title":"Common understanding of Media Literacy inthe EU context",
+"r_m2_title":"Conceptualising disinformation",
+"r_m3_title":"How to tackle disinformation: tools and methodologies"
+
+
+}

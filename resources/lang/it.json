@@ -1,0 +1,72 @@
+{
+"Home_nav":"Home",
+"About_nav":"Il progetto",
+"Database_nav":"Database",
+"Resources_nav":"Risorse",
+"Partners_nav":"Partner",
+"News_nav":"News",
+"Contact_nav":"Contatti",
+"Survey_nav":"Indagine",
+
+"header_fake_news":"Fake news for dummies",
+
+"t_about_project":"About project",
+"t_about_project_p1": "Nell'era dei New Media siamo costantemente circondati da tutti i tipi di informazioni, dalle questioni politiche alla pubblicità e al marketing, che ci arrivano senza alcun filtro se non la nostra capacità di valutare criticamente la loro affidabilità. Le informazioni distorte sembrano essere particolarmente difficili da decodificare per i cittadini con una scarsa alfabetizzazione mediatica. D'altro canto, i dati sull'alfabetizzazione digitale hanno dimostrato di essere slegati da età o il livello di istruzione. Il progetto Open Your Eyes si rivolge in particolare a studenti ed educatori adulti nel tentativo di migliorare le loro competenze digitali fornendo strumenti per riconoscere ed identificare le cosiddette \"fake news\" e combattere la diffusione della disinformazione online.",                       
+"t_about_project_p2":"I nostri obiettivi Il progetto Open Your Eyes si propone di sviluppare i seguenti risultati:",
+"t_about_project_p3":"\"Check IT Out\" Database </b>: dopo un'attenta ricerca comparativa, i partner compileranno una raccolta di migliori pratiche e iniziative che consentiranno agli utenti di sviluppare un approccio critico al consumo di notizie e di innescare così il loro senso critico verso la fruizione dei media. La ricerca sarà condotta in una selezione di paesi europei interessati da fenomeni come il separatismo e la crescente disinformazione, in particolare nel periodo delle elezioni nazionali ed europee, e consentirà ai futuri utenti di progettare strategie individuali per affrontare la disinformazione sulla base di ciò che ha funzionato meglio in altri paesi .",
+"t_about_project_p4":"\"Check IT Out\" Labs</b>: tenuti da educatori per adulti appositamente formati e basati sul database precedentemente sviluppato, i Lab si rivolgeranno a gruppi di cittadini adulti nei paesi partner con l'obiettivo di sviluppare le loro capacità critiche e digitali, avvicinandoli al concetto di fake news e in ultima analisi diffondere consapevolezza sull'argomento all'interno della loro rete di conoscenze.",                                                  
+"t_about_project_p5":"Project [ 2018-1-BG01-KA204-047871 ]",
+
+
+"t_database":"\"Fake news\": nonostante si tratti di un termine ormai ampiamente usato e diffuso, preferiamo chiamarla \"disinformazione\". ",
+"t_database_p1":"Fake news, infatti, è da considerarsi inadeguato; troppo nebuloso e impreciso, con una netta connotazione politica, e comprendente una gamma troppo ampia di fenomeni (come satira, parodia, manipolazione, pubblicità e propaganda; Tandoc et al, 2017).",                   
+"t_database_p2":"In linea con la posizione della Commissione europea e del Consiglio d'Europa, adottiamo il quadro teorico del disturbo dell'informazione, che definisce tre tipi di informazioni false e / o dannose:",                    
+"t_database_p3":"Informazioni errate: informazioni false condivise inavvertitamente, senza intenzione di causare danno.",
+"t_database_p4":"Dis-informazione: creata per causare deliberatamente un danno, attraverso la condivisione di informazioni false.",
+"t_database_p5": "Informazioni errate: informazioni o opinioni autentiche condivise per causare danni, ad es. discorsi di odio, molestie.",                                        
+"t_database_p6": "Our efforts will focus on countering <b>dis-information</b>, the dangerous overlap of false and harmful information.",
+"t_database_list":"Check It Out",
+"t_database_list_p1":"Il database \"Check It Out\" è una raccolta di strumenti e iniziative utili per riconoscere la disinformazione online: cos'è, come si diffonde e come contrastarla.",
+"t_database_list_p2":"Usa i filtri qui sotto per ordinare le iniziative in base a paese di origine, tipologia, target e piattaforme digitali!",
+"t_database_list_p3":"Il database \"Check It Out\" viene aggiornato regolarmente: conosci qualche valida iniziativa nel settore della media literacy e del fact-checking? Raccontacela qui!",
+
+
+"t_res_handbook":"MANUALE PER GLI EDUCATORI PER ADULTI ED ALTRE RISORSE",
+"t_res_handbook_p1":"Stay tuned for educational materials, tools and resources for adult educators interested in disinformation! ",
+
+
+"t_news_evnts":"NEWS ED EVENTI",
+"t_news_evnts_p1":"Follow News and Events from across Europe to be informed about latest news on tackling disinformation and teaching digital media literacy. Keep up to date.",
+
+"t_contact":"Contatti",
+"t_contact_p1":"Contact information",
+"t_contact_p2":"Full name",
+"t_contact_p3":"E-mail",
+"t_contact_p4":"Organisation",
+"t_contact_p5":"Message",
+"t_contact_p6":"Send",
+
+
+"t_survey":"Il progetto Open Your Eyes sta raccogliendo buone pratiche, strumenti e risorse sull'alfabetizzazione digitale e dei media in relazione alle fake news in Europa. Questa indagine è stata progettata per supportare la community nella ricerca delle migliori risorse formative sul tema, in modo da raggrupparle e condividerle sul sito web del progetto. ",                    
+"t_survey_p1":"Compilando questo modulo, contribuirai a creare un database unico sul tema delle fake news e della media literacy.",
+"t_survey_p2":"Le informazioni fornite rispondendo a questo questionario saranno utilizzate solo dal consorzio del progetto \"Open your eyes - Fake news for dummies\", finanziato dal programma Erasmus +.",                    
+"t_survey_p3":"Le informazioni fornite non verranno utilizzate in altro modo senza il tuo esplicito consenso.",
+
+                    
+
+"t_disclaimer":"Il supporto della Commissione europea alla produzione di questa pubblicazione non costituisce un'approvazione dei contenuti, che riflettono le opinioni degli autori, e la Commissione non può essere ritenuta responsabile per qualsiasi uso che possa essere fatto delle informazioni in esso contenute.",
+
+"r_handbook":"HANDBOOK",
+"r_module":"MODULO ",
+"r_get_ready":"PREMESSA",
+"r_check_out":"CHECK IT OUT",
+"r_verify":"VERIFICA",
+"r_dys":"FAI DA TE",
+"r_sources":"FONTI",
+"r_freading":"LETTURE DI APPROFONDIMENTO",
+"r_case_study":"CASO DI STUDIO: SUAVELOS, UNA RETE DI SUPREMAZIA BIANCA",
+"r_m1_title":"Interpretazione condivisa sull’alfabetizzazione mediatica nel contesto europeo",
+"r_m2_title":"Concettualizzare la disinformazione",
+"r_m3_title":"Come contrastare la disinformazione Strumenti e tecniche"                                                  
+
+}

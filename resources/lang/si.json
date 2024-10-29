@@ -1,0 +1,72 @@
+{
+"Home_nav":"Domov",
+"About_nav":"O nas",
+"Database_nav":"Baza podatkov",
+"Resources_nav":"Viri",
+"Partners_nav":"Partnerji",
+"News_nav":"Novice",
+"Contact_nav":"Kontakt",
+"Survey_nav":"Anketa",
+
+"header_fake_news":"Fake news for dummies",
+
+"t_about_project":"About project",
+"t_about_project_p1": "V Novi medijski dobi smo nenehno obkroženi z vsemi vrstami informacij, od političnih vprašanj do oglaševanja in trženja. Informacije pridejo do nas brez brez nadzorovanega filtriranja z izjemo lastne zmožnosti kritične ocene njihove veljavnosti. Zdi se, da so pristranske informacije še posebej težko razvozljive za medijsko manj pismeno populacijo. Izkazalo se je, da stopnja digitalne pismenosti ni odivsna od starosti ali stopnje izobrazbe. Projekt Open Your Eyes pa vseeno cilja zlasti na odrasle učence in učitelje ter si prizadeva za izboljšanje njihovih digitalnih veščin z zagotavljanjem orodij za prepoznavanje lažnih novic ter omejitev širjenja dezinformacij na spletu.",                       
+"t_about_project_p2":"Projekt Open Your Eyes želi zagotoviti dva glavna rezultata:",
+"t_about_project_p3":"Podatkovna baza \"Check IT Out\"</b>: po temeljitih primerjalnih raziskavah bodo partnerji sestavili zbirko najboljših praks in pobud, ki bodo uporabnikom omogočile, da razvijejo kritičen pristop k uporabi novic in upajo, da bodo razvili občutek za dojemanje tega problema. Raziskave bodo potekale v izbranih evropskih državah, ki jih zanimajo pojavi, kot sta separatizem in naraščajoča dezinformacija, zlasti v času državnih in evropskih volitev, in bodočim uporabnikom omogočili oblikovanje posameznih strategij za spopadanje z dezinformacijami na podlagi tistega, kar je najbolje delovalo v drugih državah.",
+"t_about_project_p4":"Laboratoriji \"Check IT Out\"</b>: vodijo jih posebej usposobljeni izobraževalci odraslih na podlagi predhodno razvite baze podatkov. Laboratoriji ciljajo na skupine odraslih učencev v partnerskih državah z namenom razvijanja njihovih kritičnih in digitalnih veščin, in jim s tem približati koncept lažnih novic ter razširiti zavest o tej temi znotraj njihove mreže.",                                                  
+"t_about_project_p5":"Project [ 2018-1-BG01-KA204-047871 ]",
+
+
+"t_database":"\"Fake news\" / lažne novice: zakaj jih raje imenujemo \"dezinformacije\"",
+"t_database_p1":"Kljub široki uporabi se izraz »fake news« vedno bolj šteje za neprimernega: je preveč nejasen in nenatančen - tudi politično zaznamovan - hkrati pa obsega preveliko pojavov (kot so novice satire, novice parodij, izmišljotine, manipulacije, oglaševanje in propaganda; Tandoc et al., 2017).",                   
+"t_database_p2":"V skladu s stališčem Evropske komisije in Sveta Evrope sprejmemo teoretični okvir informacijskih motenj, ki določa tri vrste napačnih in / ali škodljivih informacij:",                    
+"t_database_p3":"<b>Mis-information / napačne informacije</b>: lažni podatki, ki se nehote delijo, ne da bi povzročali škodo.",
+"t_database_p4":"<b>Dis-infomation / dezinformacije</b>: namerno povzročajo škodo z namernim deljenjem lažnih informacij.",
+"t_database_p5":"<b>Mal-information / zloraba informacij</b>: deljenje pristnih informacij ali mnenj, da povzročijo škodo, npr. sovražni govor, nadlegovanje.",                                        
+"t_database_p6":"Our efforts will focus on countering <b>dis-information</b>, the dangerous overlap of false and harmful information.",
+"t_database_list":"Check It Out",
+"t_database_list_p1":"Baza podatkov \"Check It Out\" je zbirka koristnih orodij in pobud za spoznavanje dezinformacij na spletu: kaj je, kako se širi in kako se obvarujemo pred njimi.",
+"t_database_list_p2":"S spodnjimi filtri lahko razvrstite pobude glede na državo, vrsto, ciljno publiko in naslovljene platforme!",
+"t_database_list_p3":"Baza podatkov \"Check It Out\" se redno posodablja: ali poznate kakšno pobudo, ki bi se tukaj lahko umeščala? Povejte nam več o tem tukaj!",
+
+
+"t_res_handbook":"PRIROČNIK ZA UČITELJE ODRASLIH OSEB IN OSTALI VIRI ",
+"t_res_handbook_p1":"Stay tuned for educational materials, tools and resources for adult educators interested in disinformation! ",
+
+
+"t_news_evnts":"NOVICE IN DOGODKI",
+"t_news_evnts_p1":"Spremljajte novice in dogodke iz celotne Evrope, da boste obveščeni o najnovejših novicah o boju proti dezinformacijam in poučevanju digitalne medijske pismenosti. Bodite na tekočem.",
+
+"t_contact":"Kontakt",
+"t_contact_p1":"Contact information",
+"t_contact_p2":"Full name",
+"t_contact_p3":"E-naslov",
+"t_contact_p4":"Organisation",
+"t_contact_p5":"Message",
+"t_contact_p6":"Send",
+
+
+"t_survey":"Projekt Open Your Eyes zbira najboljše prakse, orodja in vire v zvezi z digitalno in medijsko pismenostjo v zvezi z lažnimi novicami. Ta anketa je zasnovana tako, da pomaga skupnosti pri izdelavi seznama virov in deljenju na skupnem spletnem mestu.",                    
+"t_survey_p1":"Z izpolnitvijo tega obrazca pomagate ustvariti edinstveno zbirko virov o tem zelo ključnem vprašanju.",
+"t_survey_p2":"Podatke, ki jih navedete z izpolnjevanjem tega vprašalnika, bo uporabljal samo konzorcij projekta \"Open your eyes: fake news for dummies\", ki ga financira Erasmus +.",                    
+"t_survey_p3":"Podatki, ki jih posredujete, ne bodo uporabljeni na noben drug način brez vašega izrecnega soglasja.",
+
+                    
+
+"t_disclaimer":"\"Podpora Evropske komisije za pripravo te publikacije ne pomeni potrditev vsebine, ki odraža le stališča avtorjev, in Komisija ne more biti odgovorna za kakršno koli uporabo informacij, ki jih publikacija vsebuje.\"",
+
+"r_handbook":"PRIROČNIK",
+"r_module":"MODUL ",
+"r_get_ready":"PRIPRAVITE SE",
+"r_check_out":"RAZIŠČITE",
+"r_verify":"PREVERITE",
+"r_dys":"NALOGE",
+"r_sources":"VIRI",
+"r_freading":"DODATNO GRADIVO",
+"r_case_study":"PRIMER: SUAVELOS, BELSKA SUPREMACISTIČNA MREŽA",
+"r_m1_title":"Splošno razumevanje medijske pismenosti v kontekstu EU",
+"r_m2_title":"Konceptualiziranje dezinformacij",
+"r_m3_title":"Kako se spopasti z dezinformacijami: orodja in metodologije"                                                  
+
+}

@@ -1,0 +1,72 @@
+{
+"Home_nav":"Acasă",
+"About_nav":"Despre",
+"Database_nav":"Database",
+"Resources_nav":"Resurse",
+"Partners_nav":"Parteneri",
+"News_nav":"Noutăți",
+"Contact_nav":"Contact",
+"Survey_nav":"Chestionar",
+
+"header_fake_news":"Fake news for dummies",
+
+"t_about_project":"About project",
+"t_about_project_p1":"În era noilor media, suntem expuși în permanență la tot felul de informații, de la problemele politice, la reclame și marketing, care nu ajung la noi fără alt filtru decât capacitatea proprie de a evalua critic validitatea acestora. Informațiile părtinitoare par a fi deosebit de dificil de identificat pentru populația cu un grad mai scăzut de competență mediatică; în timp ce ratele de alfabetizare digitală s-au dovedit a nu fi direct dependente de vârsta sau nivelul educațional, proiectul Open Your Eyes vizează în mod special elevii și educatorii adulți și încearcă să le îmbunătățească abilitățile digitale, oferindu-le instrumente pentru identificarea știrilor false și combaterea răspândirii dezinformării online.",                       
+"t_about_project_p2":"Obiectivul nostru Proiectul Open Your Eyes intenționează să ofere două rezultate   principale:",
+"t_about_project_p3":"Baza de date “Check IT Out”</b>: după o analiză comparativă minuțioasă, partenerii vor alcătui o selecție de bune practici și inițiative care vor permite utilizatorilor să dezvolte o abordare critică a consumului de știri și, sperăm, să-și activeze simțul critic față de această problemă. Cercetările vor fi efectuate într-o selecție de țări europene afectate de fenomene precum separatismul și dezinformarea în creștere, în special în preajma alegerilor naționale și europene, și vor permite viitorilor utilizatori să își creeze strategii individuale pentru a combate dezinformarea, bazate pe practici care și-au dovedit eficiența în țările respective.",
+"t_about_project_p4":"Laboratoarele “Check IT Out”</b>: susținute de formatori pentru adulți special pregătiți și utilizând baza de date dezvoltată anterior, aceste sesiuni de training vor fi destinate studenților adulți din țările partenere, cu scopul de a-i ajuta să-și dezvolte abilitățile critice și competențele digitale, de a-i familiariza cu conceptul de „știri false” și de a stimula în cele din urmă conștientizarea subiectului în sfera lor de influență.",                                                  
+"t_about_project_p5":"Project [ 2018-1-BG01-KA204-047871 ]",
+
+
+"t_database":"„Fake news/știri false”: de ce preferăm să le numim „dezinformare”",
+"t_database_p1":"Deși este utilizat pe scară largă, termenul „fake news/știri false” este considerat din ce în ce mai inadecvat: este prea nebulos și imprecis - ca să nu mai vorbim de conotațiile politice - și cuprinde o gamă mult prea largă de fenomene (cum ar fi satira și parodia programelor de știri, fabricarea, manipularea, publicitate și propagandă; Tandoc și colab., 2017).",                   
+"t_database_p2":"În conformitate cu poziția Comisiei Europene și a Consiliului Europei, adoptăm cadrul teoretic referitor la dezinformare, care definește trei tipuri de informații false și / sau dăunătoare:",                    
+"t_database_p3":"Mis-information/ Informații greșite: informații false care sunt partajate din neatenție, fără a intenționa să provoace vătămare.",
+"t_database_p4":" Dis-information/Dezinformare: intenționând să provoace vătămare, prin partajarea deliberată a informațiilor false.",
+"t_database_p5": "Mal-information: informații sau opinii autentice împărtășite pentru a provoca daune, de ex. discursul de ură, hărțuirea.",                                        
+"t_database_p6": "Our efforts will focus on countering <b>dis-information</b>, the dangerous overlap of false and harmful information.",
+"t_database_list":"Check It Out",
+"t_database_list_p1":"Baza de date „Check It Out” este o colecție de instrumente și inițiative utile în legătură cu dezinformarea online: ce este, cum se răspândește și cum poate fi combătută.",
+"t_database_list_p2":"Folosiți filtrele de mai jos pentru a selecta inițiativele în funcție de țară, tip, audiență țintă și platforme adresate!",
+"t_database_list_p3":"Baza de date „Check It Out” este actualizată permanent: cunoașteți inițiative pe tema combaterii dezinformării? Puteți introduce aici o scurtă descriere a fiecărei inițiative pentru a contribui la efortul nostru de combatere a dezinformării online!",
+
+
+"t_res_handbook":"MANUAL PENTRU FORMATORI ȘI ALTE RESURSE",
+"t_res_handbook_p1":"Stay tuned for educational materials, tools and resources for adult educators interested in disinformation! ",
+
+
+"t_news_evnts":"ȘTIRI ȘI EVENIMENTE",
+"t_news_evnts_p1":"Urmăriți știri și evenimente din toată Europa pentru a fi informați despre cele mai recente inițiative în abordarea dezinformării și predarea alfabetizării media digitale. ",
+
+"t_contact":"Contact",
+"t_contact_p1":"Contact information",
+"t_contact_p2":"Full name",
+"t_contact_p3":"Email",
+"t_contact_p4":"Organisation",
+"t_contact_p5":"Message",
+"t_contact_p6":"Send",
+
+
+"t_survey":"Proiectul Open Your Eyes colectează cele mai bune practici, seturi de instrumente și resurse pe tema alfabetizării digitale și media împotriva fenomenului Fake News în Europa. Acest sondaj este conceput pentru a ajuta comunitatea să identifice resursele de care dispune în lupta cu dezinformarea și să le împărtășească pe un site web comun.",                    
+"t_survey_p1":"Prin completarea acestui formular, ne ajutați să creăm un centru de resurse unic pe această temă crucială.",
+"t_survey_p2":"Informațiile pe care le oferiți răspunzând la acest chestionar vor fi utilizate de consorțiul proiectului finanțat Erasmus + „Deschideți ochii: fake news pe înțelesul tuturor” exclusiv în scopul cercetării în cadrul acestei inițiative.",                    
+"t_survey_p3":"Informațiile pe care le furnizați nu vor fi utilizate în alt mod fără consimțământul dvs. explicit.",
+
+                    
+
+"t_disclaimer":"Conţinutul prezentului material reprezintă responsabilitatea exclusivă a autorilor, iar Agenţia Naţională şi Comisia Europeană nu sunt responsabile pentru modul în care va fi folosit conţinutul informaţiei",
+
+"r_handbook":"MANUAL",
+"r_module":"MODULUL ",
+"r_get_ready":"PREGĂTIRE",
+"r_check_out":"CHECK IT OUT",
+"r_verify":"VERIFICAȚI",
+"r_dys":"TESTAȚI",
+"r_sources":"SURSE",
+"r_freading":"LECTURĂ SUPLIMENTARĂ",
+"r_case_study":"Case study: suavelos, a white supremacist network",
+"r_m1_title":"Informații generale despre alfabetizarea media în contextul UE",
+"r_m2_title":"Conceptualizarea dezinformării",
+"r_m3_title":"How to tackle disinformation: tools and methodologies"                                                  
+
+}
